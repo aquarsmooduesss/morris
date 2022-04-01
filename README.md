@@ -7,9 +7,9 @@
 **occupation** :: web & py developer. 
 <br/>
 
-**music** :: Кишлак, АПФС, Папин Олимпос, Конец солнечных дней, LIZER
+**music** :: [playlist](https://open.spotify.com/playlist/74FR89NWOstoqotOr7CP9K?si=bfcd376d7fd54273)
 
-**discord bot** :: [**Minerva**](https://boticord.top/bot/892482547475427358)
+**discord bot** :: [**Minerva**](https://bcord.cc/minervabot)
 <br/>
 
 ## programming languages:
